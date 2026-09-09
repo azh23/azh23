@@ -1,6 +1,6 @@
 # Hi, I'm Alana Zhao 👋
 
-Senior at USC (graduating December 2026) interested in backend engineering. Currently a Software Engineering Intern at The Trade Desk, working on the Rates & Fees team. Previously interned at Rockwell Automation and Crane Co.
+Senior at USC (graduating December 2026) interested in backend engineering. Previously interned at The Trade Desk, Rockwell Automation, Crane Co.
 
 📎 [LinkedIn](https://www.linkedin.com/in/alanazhao/)
 
