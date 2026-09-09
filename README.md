@@ -6,9 +6,12 @@ Check out my LinkedIn to learn more: https://www.linkedin.com/in/alanazhao/
 
 ## Project Guide
 
-[Risk Factor (May 2026)](https://github.com/shriya-r/RiskFactor) -- A healthcare game with progressive difficulty, timed challenges, and spaced information delivery
+🩺[Risk Factor (May 2026)](https://github.com/shriya-r/RiskFactor) -- A healthcare game with progressive difficulty, timed challenges, and spaced information delivery
+
 [Feng Shui For Sure (March 2026)](https://github.com/azh23/feng-shui-for-sure) -- A website that processes an image of a room and utilizes generation workflows to rearrange furniture based on Feng Shui principles
+
 [Flamingo (January 2026)](https://github.com/sarah-min/flamingo) -- A Chrome extension that scrapes Wiktionary and delivers real-time, context-aware word definitions
+
 [Sketchtune (November 2024)](https://github.com/noahpin/sketchtune) --Wwebsite that plays music based on real-time user drawing input and incorporates DAIN chatbot
 
 <!--
