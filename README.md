@@ -1,30 +1,14 @@
-## Alana Zhao
+# Hi, I'm Alana Zhao 👋
 
-Hello! I'm a current senior at University of Southern California graduating in December 2026, interested in backend engineering. I previously interned at The Trade Desk, Rockwell Automation, and Crane Co.
+Senior at USC (graduating December 2026) interested in backend engineering. Currently a Software Engineering Intern at The Trade Desk, working on the Rates & Fees team. Previously interned at Rockwell Automation and Crane Co.
 
-Check out my LinkedIn to learn more: https://www.linkedin.com/in/alanazhao/
+📎 [LinkedIn](https://www.linkedin.com/in/alanazhao/)
 
-## Project Guide
+## 🚀 Project Guide
 
-🩺[Risk Factor (May 2026)](https://github.com/shriya-r/RiskFactor) -- A healthcare game with progressive difficulty, timed challenges, and spaced information delivery
-
-[Feng Shui For Sure (March 2026)](https://github.com/azh23/feng-shui-for-sure) -- A website that processes an image of a room and utilizes generation workflows to rearrange furniture based on Feng Shui principles
-
-[Flamingo (January 2026)](https://github.com/sarah-min/flamingo) -- A Chrome extension that scrapes Wiktionary and delivers real-time, context-aware word definitions
-
-[Sketchtune (November 2024)](https://github.com/noahpin/sketchtune) --Wwebsite that plays music based on real-time user drawing input and incorporates DAIN chatbot
-
-<!--
-**azh23/azh23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description |
+|---|---|
+| 🩺 [Risk Factor](https://github.com/shriya-r/RiskFactor) <br>*May 2026* | A healthcare game with progressive difficulty, timed challenges, and spaced information delivery |
+| 🪴 [Feng Shui For Sure](https://github.com/azh23/feng-shui-for-sure) <br>*March 2026* | Processes a photo of a room and uses generative workflows to rearrange furniture according to Feng Shui principles |
+| 🦩 [Flamingo](https://github.com/sarah-min/flamingo) <br>*January 2026* | A Chrome extension that scrapes Wiktionary for real-time, context-aware word definitions |
+| 🎨 [Sketchtune](https://github.com/noahpin/sketchtune) <br>*November 2024* | Plays music based on real-time drawing input, incorporating the DAIN chatbot |
