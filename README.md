@@ -1,4 +1,4 @@
-# Hi, I'm Alana Zhao 👋
+# Hi, I'm Alana Zhao 🐈
 
 Senior at USC (graduating December 2026) interested in backend engineering. Previously interned at The Trade Desk, Rockwell Automation, Crane Co.
 
